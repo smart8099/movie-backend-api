@@ -1,0 +1,57 @@
+[
+  {
+    "model": "movie_api.moviedata",
+    "pk": 1,
+    "fields": {
+      "title": "The Lion King",
+      "year": "2020",
+      "runtime": "118 min",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SX300.jpg",
+      "description": "The Lion King is a visually stunning live-action/CGI remake of the beloved animated classic. Follow the journey of Simba, a young lion prince, as he discovers his identity and fulfills his destiny as the king of the Pride Lands."
+    }
+  },
+  {
+    "model": "movie_api.moviedata",
+    "pk": 2,
+    "fields": {
+      "title": "Mowgli: Legend of the Jungle",
+      "year": "2018",
+      "runtime": "104 min",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjMzODc2NzU5MV5BMl5BanBnXkFtZTgwNTMwMTE3NjM@._V1_SX300.jpg",
+      "description": "Mowgli: Legend of the Jungle is a darker and more realistic adaptation of Rudyard Kipling's classic stories. Join Mowgli, a human raised by wolves, as he navigates the dangers of the jungle and discovers his place in the animal kingdom."
+    }
+  },
+  {
+    "model": "movie_api.moviedata",
+    "pk": 3,
+    "fields": {
+      "title": "Doctor Strange",
+      "year": "2016",
+      "runtime": "115 min",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_SX300.jpg",
+      "description": "Doctor Strange follows the journey of Dr. Stephen Strange, a brilliant but arrogant neurosurgeon, who seeks mystical healing after a car accident. Enter the world of sorcery and dimensions as he transforms into the Sorcerer Supreme."
+    }
+  },
+  {
+    "model": "movie_api.moviedata",
+    "pk": 4,
+    "fields": {
+      "title": "John Wick",
+      "year": "2014",
+      "runtime": "101 min",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg",
+      "description": "John Wick is a relentless action film that follows the titular character, a retired hitman seeking vengeance for the death of his beloved dog. Brace yourself for intense gunfights and stylish action sequences."
+    }
+  },
+  {
+    "model": "movie_api.moviedata",
+    "pk": 5,
+    "fields": {
+      "title": "The Notebook",
+      "year": "2004",
+      "runtime": "123 min",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjMzODc2NzU5MV5BMl5BanBnXkFtZTgwNTMwMTE3NjM@._V1_SX300.jpg",
+      "description": "The Notebook is a heartwarming romantic drama that spans decades. Witness the enduring love story of Noah and Allie as they navigate the challenges of social class, family expectations, and the passage of time."
+    }
+  }
+]
